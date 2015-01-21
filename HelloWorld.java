@@ -4,6 +4,6 @@ Class HelloWorld{
 	System.out.println("Hello from Meena");
 	System.out.println("Added by Saravanan");
 
-	Syso (" Hai by Aiswarya");
+	System.out.println (" Hai by Aiswarya");
   }
 }
